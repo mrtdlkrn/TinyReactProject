@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System;
 using System.Data;
 using System.Text.Json;
 using TinyProjectBusiness.Abstract;
